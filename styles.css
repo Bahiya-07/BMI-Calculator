@@ -1,0 +1,38 @@
+#heading,#result,#resLabel{ 
+    color: #224059;  
+}
+#label{
+    color: #224059;
+ font-weight: bold;
+ margin: 15px;
+}
+#box{
+    background-color: 	#b6bec5;
+    border-color:#224059 ;
+}
+#btn{
+   
+    font-weight: bold;
+    background-color: #7a96ae;
+    color: #2b4459;
+    
+}
+#btn:hover{
+     background-color: #2b4459; 
+     color: white;
+}
+body{
+    background-color: 	#224059;
+}
+label {
+    position: relative;
+  }
+  
+label span {
+    position: absolute;
+    top: -1px;
+    right: 24px;
+  }
+  #result{
+    font-weight: bold;
+  }
